@@ -9,7 +9,7 @@ GitHub pages were created so that a Latitude Analysis Dashboard with Attitude co
 using visualizations created in past assignments. In building this dashboard, individual pages were created for each plot 
 with visualizations and their corresponding explanations. 
 
-A landing page was created, a comparison of plots page, and another page where the data could be viewed
+A landing page was created, a comparison of plots page, and other pages where the data could be viewed.
 
 ### Website Requirements
 
